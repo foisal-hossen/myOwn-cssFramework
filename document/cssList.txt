@@ -1,0 +1,4 @@
+margin
+padding
+text size 
+font style
