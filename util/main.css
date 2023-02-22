@@ -15,16 +15,14 @@
 @import '/css/padding-right.css';
 @import '/css/padding-left.css';
 
-                     /* SIZING */
+                  /* SIZING */
 /* height*/
-@import '';
-@import '';
-@import '';
+@import '/css/height.css';
+@import '/css/h-min-max.css';
 
 /* width */
-@import '';
-@import '';
-@import '';
+@import '/css/width.css';
+@import '/css/w-min-max.css';
 
 /* text class*/
 @import '/css/text-size.css';

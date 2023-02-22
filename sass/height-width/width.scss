@@ -1,0 +1,33 @@
+// width class
+
+$width-size: 0.25rem;
+$width-percent:1%;
+$width-veiwWidth:1vh;
+
+$width-start: 1;
+$width-end: 100;
+
+.h-screen{
+  width: 83.2vh;
+}
+@for $value from $width-start through $width-end {
+  .h-#{$value}vh{
+    width: $value * $width-veiwWidth;
+    
+  }
+  
+}
+@for $value from $width-start through $width-end {
+  .h-#{$value}pr{
+    width: $value * $width-percent;
+    
+  }
+  
+}
+@for $value from $width-start through $width-end {
+  .h-#{$value}{
+    width: $value * $width-size;
+    
+  }
+  
+}
