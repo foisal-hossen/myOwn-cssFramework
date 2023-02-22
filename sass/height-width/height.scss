@@ -1,7 +1,7 @@
 // height classes
 $height-size: 0.25rem;
 $height-percent:1%;
-$height-veiwHeight:1vh;
+$height-viewHeight:1vh;
 
 $height-start: 1;
 $height-end: 100;
@@ -11,7 +11,7 @@ $height-end: 100;
 }
 @for $value from $height-start through $height-end {
   .h-#{$value}vh{
-    height: $value * $height-veiwHeight;
+    height: $value * $height-viewHeight;
     
   }
   

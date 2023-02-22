@@ -24,11 +24,12 @@
 @import '/css/width.css';
 @import '/css/w-min-max.css';
 
-/* text class*/
-@import '/css/text-size.css';
 @import '/css/tag.css';
 
 /* reset class */
 @import '/css/reset.css';
 
 /* Typogrphy */
+/* text */
+@import '/css/text-size.css';
+@import '/css/text-color.css';

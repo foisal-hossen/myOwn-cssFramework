@@ -1,0 +1,3759 @@
+.text-green-1 {
+  color: #0d400c;
+}
+
+.text-green-2 {
+  color: #115510;
+}
+
+.text-green-3 {
+  color: #166b14;
+}
+
+.text-green-4 {
+  color: #1a8018;
+}
+
+.text-green-5 {
+  color: #1e961c;
+}
+
+.text-green-6 {
+  color: #209e1e;
+}
+
+.text-green-7 {
+  color: #23ab20;
+}
+
+.text-green-8 {
+  color: #25b823;
+}
+
+.text-green-9 {
+  color: #27c124;
+}
+
+.text-green-10 {
+  color: #2ace27;
+}
+
+.text-green-11 {
+  color: #2fd72c;
+}
+
+.text-green-12 {
+  color: #3cda39;
+}
+
+.text-green-13 {
+  color: #4ddd4a;
+}
+
+.text-green-14 {
+  color: #5ae057;
+}
+
+.text-green-15 {
+  color: #66e264;
+}
+
+.text-green-16 {
+  color: #73e471;
+}
+
+.text-green-17 {
+  color: #80e77e;
+}
+
+.text-green-18 {
+  color: #8ce98b;
+}
+
+.text-green-19 {
+  color: #95eb93;
+}
+
+.text-green-20 {
+  color: #a2eda0;
+}
+
+.text-red-1 {
+  color: #630d07;
+}
+
+.text-red-2 {
+  color: #7b1009;
+}
+
+.text-red-3 {
+  color: #93130a;
+}
+
+.text-red-4 {
+  color: #aa160c;
+}
+
+.text-red-5 {
+  color: #c21a0e;
+}
+
+.text-red-6 {
+  color: #cc1b0e;
+}
+
+.text-red-7 {
+  color: #da1d0f;
+}
+
+.text-red-8 {
+  color: #e81f10;
+}
+
+.text-red-9 {
+  color: #ee2315;
+}
+
+.text-red-10 {
+  color: #ef3023;
+}
+
+.text-red-11 {
+  color: #f03e31;
+}
+
+.text-red-12 {
+  color: #f14b3f;
+}
+
+.text-red-13 {
+  color: #f35d52;
+}
+
+.text-red-14 {
+  color: #f46a61;
+}
+
+.text-red-15 {
+  color: #f5786f;
+}
+
+.text-red-16 {
+  color: #f6857d;
+}
+
+.text-red-17 {
+  color: #f7938c;
+}
+
+.text-red-18 {
+  color: #f8a09a;
+}
+
+.text-red-19 {
+  color: #f9a9a3;
+}
+
+.text-red-20 {
+  color: #fab6b2;
+}
+
+.text-blue-1 {
+  color: #0a205e;
+}
+
+.text-blue-2 {
+  color: #0c2875;
+}
+
+.text-blue-3 {
+  color: #0f308c;
+}
+
+.text-blue-4 {
+  color: #1138a3;
+}
+
+.text-blue-5 {
+  color: #143fba;
+}
+
+.text-blue-6 {
+  color: #1543c3;
+}
+
+.text-blue-7 {
+  color: #1647d1;
+}
+
+.text-blue-8 {
+  color: #184cdf;
+}
+
+.text-blue-9 {
+  color: #1a50e7;
+}
+
+.text-blue-10 {
+  color: #285ae8;
+}
+
+.text-blue-11 {
+  color: #3665ea;
+}
+
+.text-blue-12 {
+  color: #4470eb;
+}
+
+.text-blue-13 {
+  color: #567eed;
+}
+
+.text-blue-14 {
+  color: #6488ef;
+}
+
+.text-blue-15 {
+  color: #7293f0;
+}
+
+.text-blue-16 {
+  color: #809ef1;
+}
+
+.text-blue-17 {
+  color: #8ea8f3;
+}
+
+.text-blue-18 {
+  color: #9bb3f4;
+}
+
+.text-blue-19 {
+  color: #a5baf5;
+}
+
+.text-blue-20 {
+  color: #b2c4f7;
+}
+
+.text-red-1 {
+  color: #630d07;
+}
+
+.text-red-2 {
+  color: #7b1009;
+}
+
+.text-red-3 {
+  color: #93130a;
+}
+
+.text-red-4 {
+  color: #aa160c;
+}
+
+.text-red-5 {
+  color: #c21a0e;
+}
+
+.text-red-6 {
+  color: #cc1b0e;
+}
+
+.text-red-7 {
+  color: #da1d0f;
+}
+
+.text-red-8 {
+  color: #e81f10;
+}
+
+.text-red-9 {
+  color: #ee2315;
+}
+
+.text-red-10 {
+  color: #ef3023;
+}
+
+.text-red-11 {
+  color: #f03e31;
+}
+
+.text-red-12 {
+  color: #f14b3f;
+}
+
+.text-red-13 {
+  color: #f35d52;
+}
+
+.text-red-14 {
+  color: #f46a61;
+}
+
+.text-red-15 {
+  color: #f5786f;
+}
+
+.text-red-16 {
+  color: #f6857d;
+}
+
+.text-red-17 {
+  color: #f7938c;
+}
+
+.text-red-18 {
+  color: #f8a09a;
+}
+
+.text-red-19 {
+  color: #f9a9a3;
+}
+
+.text-red-20 {
+  color: #fab6b2;
+}
+
+.text-blue-1 {
+  color: #0a205e;
+}
+
+.text-blue-2 {
+  color: #0c2875;
+}
+
+.text-blue-3 {
+  color: #0f308c;
+}
+
+.text-blue-4 {
+  color: #1138a3;
+}
+
+.text-blue-5 {
+  color: #143fba;
+}
+
+.text-blue-6 {
+  color: #1543c3;
+}
+
+.text-blue-7 {
+  color: #1647d1;
+}
+
+.text-blue-8 {
+  color: #184cdf;
+}
+
+.text-blue-9 {
+  color: #1a50e7;
+}
+
+.text-blue-10 {
+  color: #285ae8;
+}
+
+.text-blue-11 {
+  color: #3665ea;
+}
+
+.text-blue-12 {
+  color: #4470eb;
+}
+
+.text-blue-13 {
+  color: #567eed;
+}
+
+.text-blue-14 {
+  color: #6488ef;
+}
+
+.text-blue-15 {
+  color: #7293f0;
+}
+
+.text-blue-16 {
+  color: #809ef1;
+}
+
+.text-blue-17 {
+  color: #8ea8f3;
+}
+
+.text-blue-18 {
+  color: #9bb3f4;
+}
+
+.text-blue-19 {
+  color: #a5baf5;
+}
+
+.text-blue-20 {
+  color: #b2c4f7;
+}
+
+.text-green-1 {
+  color: #0d400c;
+}
+
+.text-green-2 {
+  color: #115510;
+}
+
+.text-green-3 {
+  color: #166b14;
+}
+
+.text-green-4 {
+  color: #1a8018;
+}
+
+.text-green-5 {
+  color: #1e961c;
+}
+
+.text-green-6 {
+  color: #209e1e;
+}
+
+.text-green-7 {
+  color: #23ab20;
+}
+
+.text-green-8 {
+  color: #25b823;
+}
+
+.text-green-9 {
+  color: #27c124;
+}
+
+.text-green-10 {
+  color: #2ace27;
+}
+
+.text-green-11 {
+  color: #2fd72c;
+}
+
+.text-green-12 {
+  color: #3cda39;
+}
+
+.text-green-13 {
+  color: #4ddd4a;
+}
+
+.text-green-14 {
+  color: #5ae057;
+}
+
+.text-green-15 {
+  color: #66e264;
+}
+
+.text-green-16 {
+  color: #73e471;
+}
+
+.text-green-17 {
+  color: #80e77e;
+}
+
+.text-green-18 {
+  color: #8ce98b;
+}
+
+.text-green-19 {
+  color: #95eb93;
+}
+
+.text-green-20 {
+  color: #a2eda0;
+}
+
+.text-red-1 {
+  color: #630d07;
+}
+
+.text-red-2 {
+  color: #7b1009;
+}
+
+.text-red-3 {
+  color: #93130a;
+}
+
+.text-red-4 {
+  color: #aa160c;
+}
+
+.text-red-5 {
+  color: #c21a0e;
+}
+
+.text-red-6 {
+  color: #cc1b0e;
+}
+
+.text-red-7 {
+  color: #da1d0f;
+}
+
+.text-red-8 {
+  color: #e81f10;
+}
+
+.text-red-9 {
+  color: #ee2315;
+}
+
+.text-red-10 {
+  color: #ef3023;
+}
+
+.text-red-11 {
+  color: #f03e31;
+}
+
+.text-red-12 {
+  color: #f14b3f;
+}
+
+.text-red-13 {
+  color: #f35d52;
+}
+
+.text-red-14 {
+  color: #f46a61;
+}
+
+.text-red-15 {
+  color: #f5786f;
+}
+
+.text-red-16 {
+  color: #f6857d;
+}
+
+.text-red-17 {
+  color: #f7938c;
+}
+
+.text-red-18 {
+  color: #f8a09a;
+}
+
+.text-red-19 {
+  color: #f9a9a3;
+}
+
+.text-red-20 {
+  color: #fab6b2;
+}
+
+.text-blue-1 {
+  color: #0a205e;
+}
+
+.text-blue-2 {
+  color: #0c2875;
+}
+
+.text-blue-3 {
+  color: #0f308c;
+}
+
+.text-blue-4 {
+  color: #1138a3;
+}
+
+.text-blue-5 {
+  color: #143fba;
+}
+
+.text-blue-6 {
+  color: #1543c3;
+}
+
+.text-blue-7 {
+  color: #1647d1;
+}
+
+.text-blue-8 {
+  color: #184cdf;
+}
+
+.text-blue-9 {
+  color: #1a50e7;
+}
+
+.text-blue-10 {
+  color: #285ae8;
+}
+
+.text-blue-11 {
+  color: #3665ea;
+}
+
+.text-blue-12 {
+  color: #4470eb;
+}
+
+.text-blue-13 {
+  color: #567eed;
+}
+
+.text-blue-14 {
+  color: #6488ef;
+}
+
+.text-blue-15 {
+  color: #7293f0;
+}
+
+.text-blue-16 {
+  color: #809ef1;
+}
+
+.text-blue-17 {
+  color: #8ea8f3;
+}
+
+.text-blue-18 {
+  color: #9bb3f4;
+}
+
+.text-blue-19 {
+  color: #a5baf5;
+}
+
+.text-blue-20 {
+  color: #b2c4f7;
+}
+
+.text-green-1 {
+  color: #0d400c;
+}
+
+.text-green-2 {
+  color: #115510;
+}
+
+.text-green-3 {
+  color: #166b14;
+}
+
+.text-green-4 {
+  color: #1a8018;
+}
+
+.text-green-5 {
+  color: #1e961c;
+}
+
+.text-green-6 {
+  color: #209e1e;
+}
+
+.text-green-7 {
+  color: #23ab20;
+}
+
+.text-green-8 {
+  color: #25b823;
+}
+
+.text-green-9 {
+  color: #27c124;
+}
+
+.text-green-10 {
+  color: #2ace27;
+}
+
+.text-green-11 {
+  color: #2fd72c;
+}
+
+.text-green-12 {
+  color: #3cda39;
+}
+
+.text-green-13 {
+  color: #4ddd4a;
+}
+
+.text-green-14 {
+  color: #5ae057;
+}
+
+.text-green-15 {
+  color: #66e264;
+}
+
+.text-green-16 {
+  color: #73e471;
+}
+
+.text-green-17 {
+  color: #80e77e;
+}
+
+.text-green-18 {
+  color: #8ce98b;
+}
+
+.text-green-19 {
+  color: #95eb93;
+}
+
+.text-green-20 {
+  color: #a2eda0;
+}
+
+.text-red-1 {
+  color: #630d07;
+}
+
+.text-red-2 {
+  color: #7b1009;
+}
+
+.text-red-3 {
+  color: #93130a;
+}
+
+.text-red-4 {
+  color: #aa160c;
+}
+
+.text-red-5 {
+  color: #c21a0e;
+}
+
+.text-red-6 {
+  color: #cc1b0e;
+}
+
+.text-red-7 {
+  color: #da1d0f;
+}
+
+.text-red-8 {
+  color: #e81f10;
+}
+
+.text-red-9 {
+  color: #ee2315;
+}
+
+.text-red-10 {
+  color: #ef3023;
+}
+
+.text-red-11 {
+  color: #f03e31;
+}
+
+.text-red-12 {
+  color: #f14b3f;
+}
+
+.text-red-13 {
+  color: #f35d52;
+}
+
+.text-red-14 {
+  color: #f46a61;
+}
+
+.text-red-15 {
+  color: #f5786f;
+}
+
+.text-red-16 {
+  color: #f6857d;
+}
+
+.text-red-17 {
+  color: #f7938c;
+}
+
+.text-red-18 {
+  color: #f8a09a;
+}
+
+.text-red-19 {
+  color: #f9a9a3;
+}
+
+.text-red-20 {
+  color: #fab6b2;
+}
+
+.text-blue-1 {
+  color: #0a205e;
+}
+
+.text-blue-2 {
+  color: #0c2875;
+}
+
+.text-blue-3 {
+  color: #0f308c;
+}
+
+.text-blue-4 {
+  color: #1138a3;
+}
+
+.text-blue-5 {
+  color: #143fba;
+}
+
+.text-blue-6 {
+  color: #1543c3;
+}
+
+.text-blue-7 {
+  color: #1647d1;
+}
+
+.text-blue-8 {
+  color: #184cdf;
+}
+
+.text-blue-9 {
+  color: #1a50e7;
+}
+
+.text-blue-10 {
+  color: #285ae8;
+}
+
+.text-blue-11 {
+  color: #3665ea;
+}
+
+.text-blue-12 {
+  color: #4470eb;
+}
+
+.text-blue-13 {
+  color: #567eed;
+}
+
+.text-blue-14 {
+  color: #6488ef;
+}
+
+.text-blue-15 {
+  color: #7293f0;
+}
+
+.text-blue-16 {
+  color: #809ef1;
+}
+
+.text-blue-17 {
+  color: #8ea8f3;
+}
+
+.text-blue-18 {
+  color: #9bb3f4;
+}
+
+.text-blue-19 {
+  color: #a5baf5;
+}
+
+.text-blue-20 {
+  color: #b2c4f7;
+}
+
+.text-green-1 {
+  color: #0d400c;
+}
+
+.text-green-2 {
+  color: #115510;
+}
+
+.text-green-3 {
+  color: #166b14;
+}
+
+.text-green-4 {
+  color: #1a8018;
+}
+
+.text-green-5 {
+  color: #1e961c;
+}
+
+.text-green-6 {
+  color: #209e1e;
+}
+
+.text-green-7 {
+  color: #23ab20;
+}
+
+.text-green-8 {
+  color: #25b823;
+}
+
+.text-green-9 {
+  color: #27c124;
+}
+
+.text-green-10 {
+  color: #2ace27;
+}
+
+.text-green-11 {
+  color: #2fd72c;
+}
+
+.text-green-12 {
+  color: #3cda39;
+}
+
+.text-green-13 {
+  color: #4ddd4a;
+}
+
+.text-green-14 {
+  color: #5ae057;
+}
+
+.text-green-15 {
+  color: #66e264;
+}
+
+.text-green-16 {
+  color: #73e471;
+}
+
+.text-green-17 {
+  color: #80e77e;
+}
+
+.text-green-18 {
+  color: #8ce98b;
+}
+
+.text-green-19 {
+  color: #95eb93;
+}
+
+.text-green-20 {
+  color: #a2eda0;
+}
+
+.text-red-1 {
+  color: #630d07;
+}
+
+.text-red-2 {
+  color: #7b1009;
+}
+
+.text-red-3 {
+  color: #93130a;
+}
+
+.text-red-4 {
+  color: #aa160c;
+}
+
+.text-red-5 {
+  color: #c21a0e;
+}
+
+.text-red-6 {
+  color: #cc1b0e;
+}
+
+.text-red-7 {
+  color: #da1d0f;
+}
+
+.text-red-8 {
+  color: #e81f10;
+}
+
+.text-red-9 {
+  color: #ee2315;
+}
+
+.text-red-10 {
+  color: #ef3023;
+}
+
+.text-red-11 {
+  color: #f03e31;
+}
+
+.text-red-12 {
+  color: #f14b3f;
+}
+
+.text-red-13 {
+  color: #f35d52;
+}
+
+.text-red-14 {
+  color: #f46a61;
+}
+
+.text-red-15 {
+  color: #f5786f;
+}
+
+.text-red-16 {
+  color: #f6857d;
+}
+
+.text-red-17 {
+  color: #f7938c;
+}
+
+.text-red-18 {
+  color: #f8a09a;
+}
+
+.text-red-19 {
+  color: #f9a9a3;
+}
+
+.text-red-20 {
+  color: #fab6b2;
+}
+
+.text-blue-1 {
+  color: #0a205e;
+}
+
+.text-blue-2 {
+  color: #0c2875;
+}
+
+.text-blue-3 {
+  color: #0f308c;
+}
+
+.text-blue-4 {
+  color: #1138a3;
+}
+
+.text-blue-5 {
+  color: #143fba;
+}
+
+.text-blue-6 {
+  color: #1543c3;
+}
+
+.text-blue-7 {
+  color: #1647d1;
+}
+
+.text-blue-8 {
+  color: #184cdf;
+}
+
+.text-blue-9 {
+  color: #1a50e7;
+}
+
+.text-blue-10 {
+  color: #285ae8;
+}
+
+.text-blue-11 {
+  color: #3665ea;
+}
+
+.text-blue-12 {
+  color: #4470eb;
+}
+
+.text-blue-13 {
+  color: #567eed;
+}
+
+.text-blue-14 {
+  color: #6488ef;
+}
+
+.text-blue-15 {
+  color: #7293f0;
+}
+
+.text-blue-16 {
+  color: #809ef1;
+}
+
+.text-blue-17 {
+  color: #8ea8f3;
+}
+
+.text-blue-18 {
+  color: #9bb3f4;
+}
+
+.text-blue-19 {
+  color: #a5baf5;
+}
+
+.text-blue-20 {
+  color: #b2c4f7;
+}
+
+.text-green-1 {
+  color: #0d400c;
+}
+
+.text-green-2 {
+  color: #115510;
+}
+
+.text-green-3 {
+  color: #166b14;
+}
+
+.text-green-4 {
+  color: #1a8018;
+}
+
+.text-green-5 {
+  color: #1e961c;
+}
+
+.text-green-6 {
+  color: #209e1e;
+}
+
+.text-green-7 {
+  color: #23ab20;
+}
+
+.text-green-8 {
+  color: #25b823;
+}
+
+.text-green-9 {
+  color: #27c124;
+}
+
+.text-green-10 {
+  color: #2ace27;
+}
+
+.text-green-11 {
+  color: #2fd72c;
+}
+
+.text-green-12 {
+  color: #3cda39;
+}
+
+.text-green-13 {
+  color: #4ddd4a;
+}
+
+.text-green-14 {
+  color: #5ae057;
+}
+
+.text-green-15 {
+  color: #66e264;
+}
+
+.text-green-16 {
+  color: #73e471;
+}
+
+.text-green-17 {
+  color: #80e77e;
+}
+
+.text-green-18 {
+  color: #8ce98b;
+}
+
+.text-green-19 {
+  color: #95eb93;
+}
+
+.text-green-20 {
+  color: #a2eda0;
+}
+
+.text-red-1 {
+  color: #630d07;
+}
+
+.text-red-2 {
+  color: #7b1009;
+}
+
+.text-red-3 {
+  color: #93130a;
+}
+
+.text-red-4 {
+  color: #aa160c;
+}
+
+.text-red-5 {
+  color: #c21a0e;
+}
+
+.text-red-6 {
+  color: #cc1b0e;
+}
+
+.text-red-7 {
+  color: #da1d0f;
+}
+
+.text-red-8 {
+  color: #e81f10;
+}
+
+.text-red-9 {
+  color: #ee2315;
+}
+
+.text-red-10 {
+  color: #ef3023;
+}
+
+.text-red-11 {
+  color: #f03e31;
+}
+
+.text-red-12 {
+  color: #f14b3f;
+}
+
+.text-red-13 {
+  color: #f35d52;
+}
+
+.text-red-14 {
+  color: #f46a61;
+}
+
+.text-red-15 {
+  color: #f5786f;
+}
+
+.text-red-16 {
+  color: #f6857d;
+}
+
+.text-red-17 {
+  color: #f7938c;
+}
+
+.text-red-18 {
+  color: #f8a09a;
+}
+
+.text-red-19 {
+  color: #f9a9a3;
+}
+
+.text-red-20 {
+  color: #fab6b2;
+}
+
+.text-blue-1 {
+  color: #0a205e;
+}
+
+.text-blue-2 {
+  color: #0c2875;
+}
+
+.text-blue-3 {
+  color: #0f308c;
+}
+
+.text-blue-4 {
+  color: #1138a3;
+}
+
+.text-blue-5 {
+  color: #143fba;
+}
+
+.text-blue-6 {
+  color: #1543c3;
+}
+
+.text-blue-7 {
+  color: #1647d1;
+}
+
+.text-blue-8 {
+  color: #184cdf;
+}
+
+.text-blue-9 {
+  color: #1a50e7;
+}
+
+.text-blue-10 {
+  color: #285ae8;
+}
+
+.text-blue-11 {
+  color: #3665ea;
+}
+
+.text-blue-12 {
+  color: #4470eb;
+}
+
+.text-blue-13 {
+  color: #567eed;
+}
+
+.text-blue-14 {
+  color: #6488ef;
+}
+
+.text-blue-15 {
+  color: #7293f0;
+}
+
+.text-blue-16 {
+  color: #809ef1;
+}
+
+.text-blue-17 {
+  color: #8ea8f3;
+}
+
+.text-blue-18 {
+  color: #9bb3f4;
+}
+
+.text-blue-19 {
+  color: #a5baf5;
+}
+
+.text-blue-20 {
+  color: #b2c4f7;
+}
+
+.text-green-1 {
+  color: #0d400c;
+}
+
+.text-green-2 {
+  color: #115510;
+}
+
+.text-green-3 {
+  color: #166b14;
+}
+
+.text-green-4 {
+  color: #1a8018;
+}
+
+.text-green-5 {
+  color: #1e961c;
+}
+
+.text-green-6 {
+  color: #209e1e;
+}
+
+.text-green-7 {
+  color: #23ab20;
+}
+
+.text-green-8 {
+  color: #25b823;
+}
+
+.text-green-9 {
+  color: #27c124;
+}
+
+.text-green-10 {
+  color: #2ace27;
+}
+
+.text-green-11 {
+  color: #2fd72c;
+}
+
+.text-green-12 {
+  color: #3cda39;
+}
+
+.text-green-13 {
+  color: #4ddd4a;
+}
+
+.text-green-14 {
+  color: #5ae057;
+}
+
+.text-green-15 {
+  color: #66e264;
+}
+
+.text-green-16 {
+  color: #73e471;
+}
+
+.text-green-17 {
+  color: #80e77e;
+}
+
+.text-green-18 {
+  color: #8ce98b;
+}
+
+.text-green-19 {
+  color: #95eb93;
+}
+
+.text-green-20 {
+  color: #a2eda0;
+}
+
+.text-red-1 {
+  color: #630d07;
+}
+
+.text-red-2 {
+  color: #7b1009;
+}
+
+.text-red-3 {
+  color: #93130a;
+}
+
+.text-red-4 {
+  color: #aa160c;
+}
+
+.text-red-5 {
+  color: #c21a0e;
+}
+
+.text-red-6 {
+  color: #cc1b0e;
+}
+
+.text-red-7 {
+  color: #da1d0f;
+}
+
+.text-red-8 {
+  color: #e81f10;
+}
+
+.text-red-9 {
+  color: #ee2315;
+}
+
+.text-red-10 {
+  color: #ef3023;
+}
+
+.text-red-11 {
+  color: #f03e31;
+}
+
+.text-red-12 {
+  color: #f14b3f;
+}
+
+.text-red-13 {
+  color: #f35d52;
+}
+
+.text-red-14 {
+  color: #f46a61;
+}
+
+.text-red-15 {
+  color: #f5786f;
+}
+
+.text-red-16 {
+  color: #f6857d;
+}
+
+.text-red-17 {
+  color: #f7938c;
+}
+
+.text-red-18 {
+  color: #f8a09a;
+}
+
+.text-red-19 {
+  color: #f9a9a3;
+}
+
+.text-red-20 {
+  color: #fab6b2;
+}
+
+.text-blue-1 {
+  color: #0a205e;
+}
+
+.text-blue-2 {
+  color: #0c2875;
+}
+
+.text-blue-3 {
+  color: #0f308c;
+}
+
+.text-blue-4 {
+  color: #1138a3;
+}
+
+.text-blue-5 {
+  color: #143fba;
+}
+
+.text-blue-6 {
+  color: #1543c3;
+}
+
+.text-blue-7 {
+  color: #1647d1;
+}
+
+.text-blue-8 {
+  color: #184cdf;
+}
+
+.text-blue-9 {
+  color: #1a50e7;
+}
+
+.text-blue-10 {
+  color: #285ae8;
+}
+
+.text-blue-11 {
+  color: #3665ea;
+}
+
+.text-blue-12 {
+  color: #4470eb;
+}
+
+.text-blue-13 {
+  color: #567eed;
+}
+
+.text-blue-14 {
+  color: #6488ef;
+}
+
+.text-blue-15 {
+  color: #7293f0;
+}
+
+.text-blue-16 {
+  color: #809ef1;
+}
+
+.text-blue-17 {
+  color: #8ea8f3;
+}
+
+.text-blue-18 {
+  color: #9bb3f4;
+}
+
+.text-blue-19 {
+  color: #a5baf5;
+}
+
+.text-blue-20 {
+  color: #b2c4f7;
+}
+
+.text-green-1 {
+  color: #0d400c;
+}
+
+.text-green-2 {
+  color: #115510;
+}
+
+.text-green-3 {
+  color: #166b14;
+}
+
+.text-green-4 {
+  color: #1a8018;
+}
+
+.text-green-5 {
+  color: #1e961c;
+}
+
+.text-green-6 {
+  color: #209e1e;
+}
+
+.text-green-7 {
+  color: #23ab20;
+}
+
+.text-green-8 {
+  color: #25b823;
+}
+
+.text-green-9 {
+  color: #27c124;
+}
+
+.text-green-10 {
+  color: #2ace27;
+}
+
+.text-green-11 {
+  color: #2fd72c;
+}
+
+.text-green-12 {
+  color: #3cda39;
+}
+
+.text-green-13 {
+  color: #4ddd4a;
+}
+
+.text-green-14 {
+  color: #5ae057;
+}
+
+.text-green-15 {
+  color: #66e264;
+}
+
+.text-green-16 {
+  color: #73e471;
+}
+
+.text-green-17 {
+  color: #80e77e;
+}
+
+.text-green-18 {
+  color: #8ce98b;
+}
+
+.text-green-19 {
+  color: #95eb93;
+}
+
+.text-green-20 {
+  color: #a2eda0;
+}
+
+.text-red-1 {
+  color: #630d07;
+}
+
+.text-red-2 {
+  color: #7b1009;
+}
+
+.text-red-3 {
+  color: #93130a;
+}
+
+.text-red-4 {
+  color: #aa160c;
+}
+
+.text-red-5 {
+  color: #c21a0e;
+}
+
+.text-red-6 {
+  color: #cc1b0e;
+}
+
+.text-red-7 {
+  color: #da1d0f;
+}
+
+.text-red-8 {
+  color: #e81f10;
+}
+
+.text-red-9 {
+  color: #ee2315;
+}
+
+.text-red-10 {
+  color: #ef3023;
+}
+
+.text-red-11 {
+  color: #f03e31;
+}
+
+.text-red-12 {
+  color: #f14b3f;
+}
+
+.text-red-13 {
+  color: #f35d52;
+}
+
+.text-red-14 {
+  color: #f46a61;
+}
+
+.text-red-15 {
+  color: #f5786f;
+}
+
+.text-red-16 {
+  color: #f6857d;
+}
+
+.text-red-17 {
+  color: #f7938c;
+}
+
+.text-red-18 {
+  color: #f8a09a;
+}
+
+.text-red-19 {
+  color: #f9a9a3;
+}
+
+.text-red-20 {
+  color: #fab6b2;
+}
+
+.text-blue-1 {
+  color: #0a205e;
+}
+
+.text-blue-2 {
+  color: #0c2875;
+}
+
+.text-blue-3 {
+  color: #0f308c;
+}
+
+.text-blue-4 {
+  color: #1138a3;
+}
+
+.text-blue-5 {
+  color: #143fba;
+}
+
+.text-blue-6 {
+  color: #1543c3;
+}
+
+.text-blue-7 {
+  color: #1647d1;
+}
+
+.text-blue-8 {
+  color: #184cdf;
+}
+
+.text-blue-9 {
+  color: #1a50e7;
+}
+
+.text-blue-10 {
+  color: #285ae8;
+}
+
+.text-blue-11 {
+  color: #3665ea;
+}
+
+.text-blue-12 {
+  color: #4470eb;
+}
+
+.text-blue-13 {
+  color: #567eed;
+}
+
+.text-blue-14 {
+  color: #6488ef;
+}
+
+.text-blue-15 {
+  color: #7293f0;
+}
+
+.text-blue-16 {
+  color: #809ef1;
+}
+
+.text-blue-17 {
+  color: #8ea8f3;
+}
+
+.text-blue-18 {
+  color: #9bb3f4;
+}
+
+.text-blue-19 {
+  color: #a5baf5;
+}
+
+.text-blue-20 {
+  color: #b2c4f7;
+}
+
+.text-green-1 {
+  color: #0d400c;
+}
+
+.text-green-2 {
+  color: #115510;
+}
+
+.text-green-3 {
+  color: #166b14;
+}
+
+.text-green-4 {
+  color: #1a8018;
+}
+
+.text-green-5 {
+  color: #1e961c;
+}
+
+.text-green-6 {
+  color: #209e1e;
+}
+
+.text-green-7 {
+  color: #23ab20;
+}
+
+.text-green-8 {
+  color: #25b823;
+}
+
+.text-green-9 {
+  color: #27c124;
+}
+
+.text-green-10 {
+  color: #2ace27;
+}
+
+.text-green-11 {
+  color: #2fd72c;
+}
+
+.text-green-12 {
+  color: #3cda39;
+}
+
+.text-green-13 {
+  color: #4ddd4a;
+}
+
+.text-green-14 {
+  color: #5ae057;
+}
+
+.text-green-15 {
+  color: #66e264;
+}
+
+.text-green-16 {
+  color: #73e471;
+}
+
+.text-green-17 {
+  color: #80e77e;
+}
+
+.text-green-18 {
+  color: #8ce98b;
+}
+
+.text-green-19 {
+  color: #95eb93;
+}
+
+.text-green-20 {
+  color: #a2eda0;
+}
+
+.text-red-1 {
+  color: #630d07;
+}
+
+.text-red-2 {
+  color: #7b1009;
+}
+
+.text-red-3 {
+  color: #93130a;
+}
+
+.text-red-4 {
+  color: #aa160c;
+}
+
+.text-red-5 {
+  color: #c21a0e;
+}
+
+.text-red-6 {
+  color: #cc1b0e;
+}
+
+.text-red-7 {
+  color: #da1d0f;
+}
+
+.text-red-8 {
+  color: #e81f10;
+}
+
+.text-red-9 {
+  color: #ee2315;
+}
+
+.text-red-10 {
+  color: #ef3023;
+}
+
+.text-red-11 {
+  color: #f03e31;
+}
+
+.text-red-12 {
+  color: #f14b3f;
+}
+
+.text-red-13 {
+  color: #f35d52;
+}
+
+.text-red-14 {
+  color: #f46a61;
+}
+
+.text-red-15 {
+  color: #f5786f;
+}
+
+.text-red-16 {
+  color: #f6857d;
+}
+
+.text-red-17 {
+  color: #f7938c;
+}
+
+.text-red-18 {
+  color: #f8a09a;
+}
+
+.text-red-19 {
+  color: #f9a9a3;
+}
+
+.text-red-20 {
+  color: #fab6b2;
+}
+
+.text-blue-1 {
+  color: #0a205e;
+}
+
+.text-blue-2 {
+  color: #0c2875;
+}
+
+.text-blue-3 {
+  color: #0f308c;
+}
+
+.text-blue-4 {
+  color: #1138a3;
+}
+
+.text-blue-5 {
+  color: #143fba;
+}
+
+.text-blue-6 {
+  color: #1543c3;
+}
+
+.text-blue-7 {
+  color: #1647d1;
+}
+
+.text-blue-8 {
+  color: #184cdf;
+}
+
+.text-blue-9 {
+  color: #1a50e7;
+}
+
+.text-blue-10 {
+  color: #285ae8;
+}
+
+.text-blue-11 {
+  color: #3665ea;
+}
+
+.text-blue-12 {
+  color: #4470eb;
+}
+
+.text-blue-13 {
+  color: #567eed;
+}
+
+.text-blue-14 {
+  color: #6488ef;
+}
+
+.text-blue-15 {
+  color: #7293f0;
+}
+
+.text-blue-16 {
+  color: #809ef1;
+}
+
+.text-blue-17 {
+  color: #8ea8f3;
+}
+
+.text-blue-18 {
+  color: #9bb3f4;
+}
+
+.text-blue-19 {
+  color: #a5baf5;
+}
+
+.text-blue-20 {
+  color: #b2c4f7;
+}
+
+.text-green-1 {
+  color: #0d400c;
+}
+
+.text-green-2 {
+  color: #115510;
+}
+
+.text-green-3 {
+  color: #166b14;
+}
+
+.text-green-4 {
+  color: #1a8018;
+}
+
+.text-green-5 {
+  color: #1e961c;
+}
+
+.text-green-6 {
+  color: #209e1e;
+}
+
+.text-green-7 {
+  color: #23ab20;
+}
+
+.text-green-8 {
+  color: #25b823;
+}
+
+.text-green-9 {
+  color: #27c124;
+}
+
+.text-green-10 {
+  color: #2ace27;
+}
+
+.text-green-11 {
+  color: #2fd72c;
+}
+
+.text-green-12 {
+  color: #3cda39;
+}
+
+.text-green-13 {
+  color: #4ddd4a;
+}
+
+.text-green-14 {
+  color: #5ae057;
+}
+
+.text-green-15 {
+  color: #66e264;
+}
+
+.text-green-16 {
+  color: #73e471;
+}
+
+.text-green-17 {
+  color: #80e77e;
+}
+
+.text-green-18 {
+  color: #8ce98b;
+}
+
+.text-green-19 {
+  color: #95eb93;
+}
+
+.text-green-20 {
+  color: #a2eda0;
+}
+
+.text-red-1 {
+  color: #630d07;
+}
+
+.text-red-2 {
+  color: #7b1009;
+}
+
+.text-red-3 {
+  color: #93130a;
+}
+
+.text-red-4 {
+  color: #aa160c;
+}
+
+.text-red-5 {
+  color: #c21a0e;
+}
+
+.text-red-6 {
+  color: #cc1b0e;
+}
+
+.text-red-7 {
+  color: #da1d0f;
+}
+
+.text-red-8 {
+  color: #e81f10;
+}
+
+.text-red-9 {
+  color: #ee2315;
+}
+
+.text-red-10 {
+  color: #ef3023;
+}
+
+.text-red-11 {
+  color: #f03e31;
+}
+
+.text-red-12 {
+  color: #f14b3f;
+}
+
+.text-red-13 {
+  color: #f35d52;
+}
+
+.text-red-14 {
+  color: #f46a61;
+}
+
+.text-red-15 {
+  color: #f5786f;
+}
+
+.text-red-16 {
+  color: #f6857d;
+}
+
+.text-red-17 {
+  color: #f7938c;
+}
+
+.text-red-18 {
+  color: #f8a09a;
+}
+
+.text-red-19 {
+  color: #f9a9a3;
+}
+
+.text-red-20 {
+  color: #fab6b2;
+}
+
+.text-blue-1 {
+  color: #0a205e;
+}
+
+.text-blue-2 {
+  color: #0c2875;
+}
+
+.text-blue-3 {
+  color: #0f308c;
+}
+
+.text-blue-4 {
+  color: #1138a3;
+}
+
+.text-blue-5 {
+  color: #143fba;
+}
+
+.text-blue-6 {
+  color: #1543c3;
+}
+
+.text-blue-7 {
+  color: #1647d1;
+}
+
+.text-blue-8 {
+  color: #184cdf;
+}
+
+.text-blue-9 {
+  color: #1a50e7;
+}
+
+.text-blue-10 {
+  color: #285ae8;
+}
+
+.text-blue-11 {
+  color: #3665ea;
+}
+
+.text-blue-12 {
+  color: #4470eb;
+}
+
+.text-blue-13 {
+  color: #567eed;
+}
+
+.text-blue-14 {
+  color: #6488ef;
+}
+
+.text-blue-15 {
+  color: #7293f0;
+}
+
+.text-blue-16 {
+  color: #809ef1;
+}
+
+.text-blue-17 {
+  color: #8ea8f3;
+}
+
+.text-blue-18 {
+  color: #9bb3f4;
+}
+
+.text-blue-19 {
+  color: #a5baf5;
+}
+
+.text-blue-20 {
+  color: #b2c4f7;
+}
+
+.text-green-1 {
+  color: #0d400c;
+}
+
+.text-green-2 {
+  color: #115510;
+}
+
+.text-green-3 {
+  color: #166b14;
+}
+
+.text-green-4 {
+  color: #1a8018;
+}
+
+.text-green-5 {
+  color: #1e961c;
+}
+
+.text-green-6 {
+  color: #209e1e;
+}
+
+.text-green-7 {
+  color: #23ab20;
+}
+
+.text-green-8 {
+  color: #25b823;
+}
+
+.text-green-9 {
+  color: #27c124;
+}
+
+.text-green-10 {
+  color: #2ace27;
+}
+
+.text-green-11 {
+  color: #2fd72c;
+}
+
+.text-green-12 {
+  color: #3cda39;
+}
+
+.text-green-13 {
+  color: #4ddd4a;
+}
+
+.text-green-14 {
+  color: #5ae057;
+}
+
+.text-green-15 {
+  color: #66e264;
+}
+
+.text-green-16 {
+  color: #73e471;
+}
+
+.text-green-17 {
+  color: #80e77e;
+}
+
+.text-green-18 {
+  color: #8ce98b;
+}
+
+.text-green-19 {
+  color: #95eb93;
+}
+
+.text-green-20 {
+  color: #a2eda0;
+}
+
+.text-red-1 {
+  color: #630d07;
+}
+
+.text-red-2 {
+  color: #7b1009;
+}
+
+.text-red-3 {
+  color: #93130a;
+}
+
+.text-red-4 {
+  color: #aa160c;
+}
+
+.text-red-5 {
+  color: #c21a0e;
+}
+
+.text-red-6 {
+  color: #cc1b0e;
+}
+
+.text-red-7 {
+  color: #da1d0f;
+}
+
+.text-red-8 {
+  color: #e81f10;
+}
+
+.text-red-9 {
+  color: #ee2315;
+}
+
+.text-red-10 {
+  color: #ef3023;
+}
+
+.text-red-11 {
+  color: #f03e31;
+}
+
+.text-red-12 {
+  color: #f14b3f;
+}
+
+.text-red-13 {
+  color: #f35d52;
+}
+
+.text-red-14 {
+  color: #f46a61;
+}
+
+.text-red-15 {
+  color: #f5786f;
+}
+
+.text-red-16 {
+  color: #f6857d;
+}
+
+.text-red-17 {
+  color: #f7938c;
+}
+
+.text-red-18 {
+  color: #f8a09a;
+}
+
+.text-red-19 {
+  color: #f9a9a3;
+}
+
+.text-red-20 {
+  color: #fab6b2;
+}
+
+.text-blue-1 {
+  color: #0a205e;
+}
+
+.text-blue-2 {
+  color: #0c2875;
+}
+
+.text-blue-3 {
+  color: #0f308c;
+}
+
+.text-blue-4 {
+  color: #1138a3;
+}
+
+.text-blue-5 {
+  color: #143fba;
+}
+
+.text-blue-6 {
+  color: #1543c3;
+}
+
+.text-blue-7 {
+  color: #1647d1;
+}
+
+.text-blue-8 {
+  color: #184cdf;
+}
+
+.text-blue-9 {
+  color: #1a50e7;
+}
+
+.text-blue-10 {
+  color: #285ae8;
+}
+
+.text-blue-11 {
+  color: #3665ea;
+}
+
+.text-blue-12 {
+  color: #4470eb;
+}
+
+.text-blue-13 {
+  color: #567eed;
+}
+
+.text-blue-14 {
+  color: #6488ef;
+}
+
+.text-blue-15 {
+  color: #7293f0;
+}
+
+.text-blue-16 {
+  color: #809ef1;
+}
+
+.text-blue-17 {
+  color: #8ea8f3;
+}
+
+.text-blue-18 {
+  color: #9bb3f4;
+}
+
+.text-blue-19 {
+  color: #a5baf5;
+}
+
+.text-blue-20 {
+  color: #b2c4f7;
+}
+
+.text-green-1 {
+  color: #0d400c;
+}
+
+.text-green-2 {
+  color: #115510;
+}
+
+.text-green-3 {
+  color: #166b14;
+}
+
+.text-green-4 {
+  color: #1a8018;
+}
+
+.text-green-5 {
+  color: #1e961c;
+}
+
+.text-green-6 {
+  color: #209e1e;
+}
+
+.text-green-7 {
+  color: #23ab20;
+}
+
+.text-green-8 {
+  color: #25b823;
+}
+
+.text-green-9 {
+  color: #27c124;
+}
+
+.text-green-10 {
+  color: #2ace27;
+}
+
+.text-green-11 {
+  color: #2fd72c;
+}
+
+.text-green-12 {
+  color: #3cda39;
+}
+
+.text-green-13 {
+  color: #4ddd4a;
+}
+
+.text-green-14 {
+  color: #5ae057;
+}
+
+.text-green-15 {
+  color: #66e264;
+}
+
+.text-green-16 {
+  color: #73e471;
+}
+
+.text-green-17 {
+  color: #80e77e;
+}
+
+.text-green-18 {
+  color: #8ce98b;
+}
+
+.text-green-19 {
+  color: #95eb93;
+}
+
+.text-green-20 {
+  color: #a2eda0;
+}
+
+.text-red-1 {
+  color: #630d07;
+}
+
+.text-red-2 {
+  color: #7b1009;
+}
+
+.text-red-3 {
+  color: #93130a;
+}
+
+.text-red-4 {
+  color: #aa160c;
+}
+
+.text-red-5 {
+  color: #c21a0e;
+}
+
+.text-red-6 {
+  color: #cc1b0e;
+}
+
+.text-red-7 {
+  color: #da1d0f;
+}
+
+.text-red-8 {
+  color: #e81f10;
+}
+
+.text-red-9 {
+  color: #ee2315;
+}
+
+.text-red-10 {
+  color: #ef3023;
+}
+
+.text-red-11 {
+  color: #f03e31;
+}
+
+.text-red-12 {
+  color: #f14b3f;
+}
+
+.text-red-13 {
+  color: #f35d52;
+}
+
+.text-red-14 {
+  color: #f46a61;
+}
+
+.text-red-15 {
+  color: #f5786f;
+}
+
+.text-red-16 {
+  color: #f6857d;
+}
+
+.text-red-17 {
+  color: #f7938c;
+}
+
+.text-red-18 {
+  color: #f8a09a;
+}
+
+.text-red-19 {
+  color: #f9a9a3;
+}
+
+.text-red-20 {
+  color: #fab6b2;
+}
+
+.text-blue-1 {
+  color: #0a205e;
+}
+
+.text-blue-2 {
+  color: #0c2875;
+}
+
+.text-blue-3 {
+  color: #0f308c;
+}
+
+.text-blue-4 {
+  color: #1138a3;
+}
+
+.text-blue-5 {
+  color: #143fba;
+}
+
+.text-blue-6 {
+  color: #1543c3;
+}
+
+.text-blue-7 {
+  color: #1647d1;
+}
+
+.text-blue-8 {
+  color: #184cdf;
+}
+
+.text-blue-9 {
+  color: #1a50e7;
+}
+
+.text-blue-10 {
+  color: #285ae8;
+}
+
+.text-blue-11 {
+  color: #3665ea;
+}
+
+.text-blue-12 {
+  color: #4470eb;
+}
+
+.text-blue-13 {
+  color: #567eed;
+}
+
+.text-blue-14 {
+  color: #6488ef;
+}
+
+.text-blue-15 {
+  color: #7293f0;
+}
+
+.text-blue-16 {
+  color: #809ef1;
+}
+
+.text-blue-17 {
+  color: #8ea8f3;
+}
+
+.text-blue-18 {
+  color: #9bb3f4;
+}
+
+.text-blue-19 {
+  color: #a5baf5;
+}
+
+.text-blue-20 {
+  color: #b2c4f7;
+}
+
+.text-green-1 {
+  color: #0d400c;
+}
+
+.text-green-2 {
+  color: #115510;
+}
+
+.text-green-3 {
+  color: #166b14;
+}
+
+.text-green-4 {
+  color: #1a8018;
+}
+
+.text-green-5 {
+  color: #1e961c;
+}
+
+.text-green-6 {
+  color: #209e1e;
+}
+
+.text-green-7 {
+  color: #23ab20;
+}
+
+.text-green-8 {
+  color: #25b823;
+}
+
+.text-green-9 {
+  color: #27c124;
+}
+
+.text-green-10 {
+  color: #2ace27;
+}
+
+.text-green-11 {
+  color: #2fd72c;
+}
+
+.text-green-12 {
+  color: #3cda39;
+}
+
+.text-green-13 {
+  color: #4ddd4a;
+}
+
+.text-green-14 {
+  color: #5ae057;
+}
+
+.text-green-15 {
+  color: #66e264;
+}
+
+.text-green-16 {
+  color: #73e471;
+}
+
+.text-green-17 {
+  color: #80e77e;
+}
+
+.text-green-18 {
+  color: #8ce98b;
+}
+
+.text-green-19 {
+  color: #95eb93;
+}
+
+.text-green-20 {
+  color: #a2eda0;
+}
+
+.text-red-1 {
+  color: #630d07;
+}
+
+.text-red-2 {
+  color: #7b1009;
+}
+
+.text-red-3 {
+  color: #93130a;
+}
+
+.text-red-4 {
+  color: #aa160c;
+}
+
+.text-red-5 {
+  color: #c21a0e;
+}
+
+.text-red-6 {
+  color: #cc1b0e;
+}
+
+.text-red-7 {
+  color: #da1d0f;
+}
+
+.text-red-8 {
+  color: #e81f10;
+}
+
+.text-red-9 {
+  color: #ee2315;
+}
+
+.text-red-10 {
+  color: #ef3023;
+}
+
+.text-red-11 {
+  color: #f03e31;
+}
+
+.text-red-12 {
+  color: #f14b3f;
+}
+
+.text-red-13 {
+  color: #f35d52;
+}
+
+.text-red-14 {
+  color: #f46a61;
+}
+
+.text-red-15 {
+  color: #f5786f;
+}
+
+.text-red-16 {
+  color: #f6857d;
+}
+
+.text-red-17 {
+  color: #f7938c;
+}
+
+.text-red-18 {
+  color: #f8a09a;
+}
+
+.text-red-19 {
+  color: #f9a9a3;
+}
+
+.text-red-20 {
+  color: #fab6b2;
+}
+
+.text-blue-1 {
+  color: #0a205e;
+}
+
+.text-blue-2 {
+  color: #0c2875;
+}
+
+.text-blue-3 {
+  color: #0f308c;
+}
+
+.text-blue-4 {
+  color: #1138a3;
+}
+
+.text-blue-5 {
+  color: #143fba;
+}
+
+.text-blue-6 {
+  color: #1543c3;
+}
+
+.text-blue-7 {
+  color: #1647d1;
+}
+
+.text-blue-8 {
+  color: #184cdf;
+}
+
+.text-blue-9 {
+  color: #1a50e7;
+}
+
+.text-blue-10 {
+  color: #285ae8;
+}
+
+.text-blue-11 {
+  color: #3665ea;
+}
+
+.text-blue-12 {
+  color: #4470eb;
+}
+
+.text-blue-13 {
+  color: #567eed;
+}
+
+.text-blue-14 {
+  color: #6488ef;
+}
+
+.text-blue-15 {
+  color: #7293f0;
+}
+
+.text-blue-16 {
+  color: #809ef1;
+}
+
+.text-blue-17 {
+  color: #8ea8f3;
+}
+
+.text-blue-18 {
+  color: #9bb3f4;
+}
+
+.text-blue-19 {
+  color: #a5baf5;
+}
+
+.text-blue-20 {
+  color: #b2c4f7;
+}
+
+.text-green-1 {
+  color: #0d400c;
+}
+
+.text-green-2 {
+  color: #115510;
+}
+
+.text-green-3 {
+  color: #166b14;
+}
+
+.text-green-4 {
+  color: #1a8018;
+}
+
+.text-green-5 {
+  color: #1e961c;
+}
+
+.text-green-6 {
+  color: #209e1e;
+}
+
+.text-green-7 {
+  color: #23ab20;
+}
+
+.text-green-8 {
+  color: #25b823;
+}
+
+.text-green-9 {
+  color: #27c124;
+}
+
+.text-green-10 {
+  color: #2ace27;
+}
+
+.text-green-11 {
+  color: #2fd72c;
+}
+
+.text-green-12 {
+  color: #3cda39;
+}
+
+.text-green-13 {
+  color: #4ddd4a;
+}
+
+.text-green-14 {
+  color: #5ae057;
+}
+
+.text-green-15 {
+  color: #66e264;
+}
+
+.text-green-16 {
+  color: #73e471;
+}
+
+.text-green-17 {
+  color: #80e77e;
+}
+
+.text-green-18 {
+  color: #8ce98b;
+}
+
+.text-green-19 {
+  color: #95eb93;
+}
+
+.text-green-20 {
+  color: #a2eda0;
+}
+
+.text-red-1 {
+  color: #630d07;
+}
+
+.text-red-2 {
+  color: #7b1009;
+}
+
+.text-red-3 {
+  color: #93130a;
+}
+
+.text-red-4 {
+  color: #aa160c;
+}
+
+.text-red-5 {
+  color: #c21a0e;
+}
+
+.text-red-6 {
+  color: #cc1b0e;
+}
+
+.text-red-7 {
+  color: #da1d0f;
+}
+
+.text-red-8 {
+  color: #e81f10;
+}
+
+.text-red-9 {
+  color: #ee2315;
+}
+
+.text-red-10 {
+  color: #ef3023;
+}
+
+.text-red-11 {
+  color: #f03e31;
+}
+
+.text-red-12 {
+  color: #f14b3f;
+}
+
+.text-red-13 {
+  color: #f35d52;
+}
+
+.text-red-14 {
+  color: #f46a61;
+}
+
+.text-red-15 {
+  color: #f5786f;
+}
+
+.text-red-16 {
+  color: #f6857d;
+}
+
+.text-red-17 {
+  color: #f7938c;
+}
+
+.text-red-18 {
+  color: #f8a09a;
+}
+
+.text-red-19 {
+  color: #f9a9a3;
+}
+
+.text-red-20 {
+  color: #fab6b2;
+}
+
+.text-blue-1 {
+  color: #0a205e;
+}
+
+.text-blue-2 {
+  color: #0c2875;
+}
+
+.text-blue-3 {
+  color: #0f308c;
+}
+
+.text-blue-4 {
+  color: #1138a3;
+}
+
+.text-blue-5 {
+  color: #143fba;
+}
+
+.text-blue-6 {
+  color: #1543c3;
+}
+
+.text-blue-7 {
+  color: #1647d1;
+}
+
+.text-blue-8 {
+  color: #184cdf;
+}
+
+.text-blue-9 {
+  color: #1a50e7;
+}
+
+.text-blue-10 {
+  color: #285ae8;
+}
+
+.text-blue-11 {
+  color: #3665ea;
+}
+
+.text-blue-12 {
+  color: #4470eb;
+}
+
+.text-blue-13 {
+  color: #567eed;
+}
+
+.text-blue-14 {
+  color: #6488ef;
+}
+
+.text-blue-15 {
+  color: #7293f0;
+}
+
+.text-blue-16 {
+  color: #809ef1;
+}
+
+.text-blue-17 {
+  color: #8ea8f3;
+}
+
+.text-blue-18 {
+  color: #9bb3f4;
+}
+
+.text-blue-19 {
+  color: #a5baf5;
+}
+
+.text-blue-20 {
+  color: #b2c4f7;
+}
+
+.text-green-1 {
+  color: #0d400c;
+}
+
+.text-green-2 {
+  color: #115510;
+}
+
+.text-green-3 {
+  color: #166b14;
+}
+
+.text-green-4 {
+  color: #1a8018;
+}
+
+.text-green-5 {
+  color: #1e961c;
+}
+
+.text-green-6 {
+  color: #209e1e;
+}
+
+.text-green-7 {
+  color: #23ab20;
+}
+
+.text-green-8 {
+  color: #25b823;
+}
+
+.text-green-9 {
+  color: #27c124;
+}
+
+.text-green-10 {
+  color: #2ace27;
+}
+
+.text-green-11 {
+  color: #2fd72c;
+}
+
+.text-green-12 {
+  color: #3cda39;
+}
+
+.text-green-13 {
+  color: #4ddd4a;
+}
+
+.text-green-14 {
+  color: #5ae057;
+}
+
+.text-green-15 {
+  color: #66e264;
+}
+
+.text-green-16 {
+  color: #73e471;
+}
+
+.text-green-17 {
+  color: #80e77e;
+}
+
+.text-green-18 {
+  color: #8ce98b;
+}
+
+.text-green-19 {
+  color: #95eb93;
+}
+
+.text-green-20 {
+  color: #a2eda0;
+}
+
+.text-red-1 {
+  color: #630d07;
+}
+
+.text-red-2 {
+  color: #7b1009;
+}
+
+.text-red-3 {
+  color: #93130a;
+}
+
+.text-red-4 {
+  color: #aa160c;
+}
+
+.text-red-5 {
+  color: #c21a0e;
+}
+
+.text-red-6 {
+  color: #cc1b0e;
+}
+
+.text-red-7 {
+  color: #da1d0f;
+}
+
+.text-red-8 {
+  color: #e81f10;
+}
+
+.text-red-9 {
+  color: #ee2315;
+}
+
+.text-red-10 {
+  color: #ef3023;
+}
+
+.text-red-11 {
+  color: #f03e31;
+}
+
+.text-red-12 {
+  color: #f14b3f;
+}
+
+.text-red-13 {
+  color: #f35d52;
+}
+
+.text-red-14 {
+  color: #f46a61;
+}
+
+.text-red-15 {
+  color: #f5786f;
+}
+
+.text-red-16 {
+  color: #f6857d;
+}
+
+.text-red-17 {
+  color: #f7938c;
+}
+
+.text-red-18 {
+  color: #f8a09a;
+}
+
+.text-red-19 {
+  color: #f9a9a3;
+}
+
+.text-red-20 {
+  color: #fab6b2;
+}
+
+.text-blue-1 {
+  color: #0a205e;
+}
+
+.text-blue-2 {
+  color: #0c2875;
+}
+
+.text-blue-3 {
+  color: #0f308c;
+}
+
+.text-blue-4 {
+  color: #1138a3;
+}
+
+.text-blue-5 {
+  color: #143fba;
+}
+
+.text-blue-6 {
+  color: #1543c3;
+}
+
+.text-blue-7 {
+  color: #1647d1;
+}
+
+.text-blue-8 {
+  color: #184cdf;
+}
+
+.text-blue-9 {
+  color: #1a50e7;
+}
+
+.text-blue-10 {
+  color: #285ae8;
+}
+
+.text-blue-11 {
+  color: #3665ea;
+}
+
+.text-blue-12 {
+  color: #4470eb;
+}
+
+.text-blue-13 {
+  color: #567eed;
+}
+
+.text-blue-14 {
+  color: #6488ef;
+}
+
+.text-blue-15 {
+  color: #7293f0;
+}
+
+.text-blue-16 {
+  color: #809ef1;
+}
+
+.text-blue-17 {
+  color: #8ea8f3;
+}
+
+.text-blue-18 {
+  color: #9bb3f4;
+}
+
+.text-blue-19 {
+  color: #a5baf5;
+}
+
+.text-blue-20 {
+  color: #b2c4f7;
+}
+
+.text-green-1 {
+  color: #0d400c;
+}
+
+.text-green-2 {
+  color: #115510;
+}
+
+.text-green-3 {
+  color: #166b14;
+}
+
+.text-green-4 {
+  color: #1a8018;
+}
+
+.text-green-5 {
+  color: #1e961c;
+}
+
+.text-green-6 {
+  color: #209e1e;
+}
+
+.text-green-7 {
+  color: #23ab20;
+}
+
+.text-green-8 {
+  color: #25b823;
+}
+
+.text-green-9 {
+  color: #27c124;
+}
+
+.text-green-10 {
+  color: #2ace27;
+}
+
+.text-green-11 {
+  color: #2fd72c;
+}
+
+.text-green-12 {
+  color: #3cda39;
+}
+
+.text-green-13 {
+  color: #4ddd4a;
+}
+
+.text-green-14 {
+  color: #5ae057;
+}
+
+.text-green-15 {
+  color: #66e264;
+}
+
+.text-green-16 {
+  color: #73e471;
+}
+
+.text-green-17 {
+  color: #80e77e;
+}
+
+.text-green-18 {
+  color: #8ce98b;
+}
+
+.text-green-19 {
+  color: #95eb93;
+}
+
+.text-green-20 {
+  color: #a2eda0;
+}
+
+.text-red-1 {
+  color: #630d07;
+}
+
+.text-red-2 {
+  color: #7b1009;
+}
+
+.text-red-3 {
+  color: #93130a;
+}
+
+.text-red-4 {
+  color: #aa160c;
+}
+
+.text-red-5 {
+  color: #c21a0e;
+}
+
+.text-red-6 {
+  color: #cc1b0e;
+}
+
+.text-red-7 {
+  color: #da1d0f;
+}
+
+.text-red-8 {
+  color: #e81f10;
+}
+
+.text-red-9 {
+  color: #ee2315;
+}
+
+.text-red-10 {
+  color: #ef3023;
+}
+
+.text-red-11 {
+  color: #f03e31;
+}
+
+.text-red-12 {
+  color: #f14b3f;
+}
+
+.text-red-13 {
+  color: #f35d52;
+}
+
+.text-red-14 {
+  color: #f46a61;
+}
+
+.text-red-15 {
+  color: #f5786f;
+}
+
+.text-red-16 {
+  color: #f6857d;
+}
+
+.text-red-17 {
+  color: #f7938c;
+}
+
+.text-red-18 {
+  color: #f8a09a;
+}
+
+.text-red-19 {
+  color: #f9a9a3;
+}
+
+.text-red-20 {
+  color: #fab6b2;
+}
+
+.text-blue-1 {
+  color: #0a205e;
+}
+
+.text-blue-2 {
+  color: #0c2875;
+}
+
+.text-blue-3 {
+  color: #0f308c;
+}
+
+.text-blue-4 {
+  color: #1138a3;
+}
+
+.text-blue-5 {
+  color: #143fba;
+}
+
+.text-blue-6 {
+  color: #1543c3;
+}
+
+.text-blue-7 {
+  color: #1647d1;
+}
+
+.text-blue-8 {
+  color: #184cdf;
+}
+
+.text-blue-9 {
+  color: #1a50e7;
+}
+
+.text-blue-10 {
+  color: #285ae8;
+}
+
+.text-blue-11 {
+  color: #3665ea;
+}
+
+.text-blue-12 {
+  color: #4470eb;
+}
+
+.text-blue-13 {
+  color: #567eed;
+}
+
+.text-blue-14 {
+  color: #6488ef;
+}
+
+.text-blue-15 {
+  color: #7293f0;
+}
+
+.text-blue-16 {
+  color: #809ef1;
+}
+
+.text-blue-17 {
+  color: #8ea8f3;
+}
+
+.text-blue-18 {
+  color: #9bb3f4;
+}
+
+.text-blue-19 {
+  color: #a5baf5;
+}
+
+.text-blue-20 {
+  color: #b2c4f7;
+}

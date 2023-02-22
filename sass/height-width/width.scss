@@ -7,25 +7,25 @@ $width-veiwWidth:1vh;
 $width-start: 1;
 $width-end: 100;
 
-.h-screen{
-  width: 83.2vh;
+.w-screen{
+  width: 100%;
 }
 @for $value from $width-start through $width-end {
-  .h-#{$value}vh{
+  .w-#{$value}vh{
     width: $value * $width-veiwWidth;
     
   }
   
 }
 @for $value from $width-start through $width-end {
-  .h-#{$value}pr{
+  .w-#{$value}pr{
     width: $value * $width-percent;
     
   }
   
 }
 @for $value from $width-start through $width-end {
-  .h-#{$value}{
+  .w-#{$value}{
     width: $value * $width-size;
     
   }
