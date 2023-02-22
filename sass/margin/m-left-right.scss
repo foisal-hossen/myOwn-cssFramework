@@ -1,0 +1,12 @@
+// margin left right classes
+$margin-size: 0.25rem;
+$margin-start: 1;
+$margin-end: 100;
+@for $value from $margin-start through $margin-end {
+  .mx-#{$value} {
+    margin-left: $value * $margin-size;
+    margin-right: $value * $margin-size;
+
+  }
+   
+}

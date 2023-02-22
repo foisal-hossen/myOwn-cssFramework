@@ -1,0 +1,12 @@
+// margin top bottom classes
+$margin-size: 0.25rem;
+$margin-start: 1;
+$margin-end: 100;
+@for $value from $margin-start through $margin-end {
+  .my-#{$value} {
+    margin-top: $value * $margin-size;
+    margin-bottom: $value * $margin-size;
+
+  }
+   
+}

@@ -1,4 +1,4 @@
-margin
-padding
+margin - m, mt, mb, mr, ml
+padding - p, pt, pb, pr, pl
 text size 
 font style

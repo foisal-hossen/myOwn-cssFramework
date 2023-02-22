@@ -1,0 +1,10 @@
+// Padding-left classes
+$padding-size: 0.25rem;
+$padding-start: 1;
+$padding-end: 100;
+@for $value from $padding-start through $padding-end {
+  .pl-#{$value} {
+    padding-left: $value * $padding-size;
+  }
+   
+}

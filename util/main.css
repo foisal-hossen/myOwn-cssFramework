@@ -1,7 +1,36 @@
-@import 'css/margin/margin.css';
-@import 'css/margin/margin-top.css';
-@import 'css/margin/margin-bottom.css';
-@import 'css/margin/margin-right.css';
-@import 'css/margin/margin-left.css';
+                     /* SPACEING */
+/* margin class */
+@import '/css/margin.css';
+@import '/css/margin-top.css';
+@import '/css/margin-bottom.css';
+@import '/css/m-top-bottom.css';
+@import '/css/margin-right.css';
+@import '/css/margin-left.css';
+@import '/css/m-left-right.css';
+
+/* padding class */
+@import '/css/padding.css';
+@import '/css/padding-top.css';
+@import '/css/padding-bottom.css';
+@import '/css/padding-right.css';
+@import '/css/padding-left.css';
+
+                     /* SIZING */
+/* height*/
+@import '';
+@import '';
+@import '';
+
+/* width */
+@import '';
+@import '';
+@import '';
+
+/* text class*/
 @import '/css/text-size.css';
 @import '/css/tag.css';
+
+/* reset class */
+@import '/css/reset.css';
+
+/* Typogrphy */

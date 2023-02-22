@@ -1,0 +1,21 @@
+// height classes
+$height-size: 0.25rem;
+$height-percent:1%;
+$height-start: 1;
+$height-end: 100;
+
+@for $value from $height-start through $height-end {
+  .h-#{$value} {
+    height: $value * $height-percent;
+    
+  }
+  
+}
+@for $value from $height-start through $height-end {
+  .h-#{$value}pr {
+    height: $value * $height-size;
+    
+
+  }
+  
+}

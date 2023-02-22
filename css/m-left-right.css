@@ -1,0 +1,499 @@
+.mx-1 {
+  margin-left: 0.25rem;
+  margin-right: 0.25rem;
+}
+
+.mx-2 {
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+
+.mx-3 {
+  margin-left: 0.75rem;
+  margin-right: 0.75rem;
+}
+
+.mx-4 {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+.mx-5 {
+  margin-left: 1.25rem;
+  margin-right: 1.25rem;
+}
+
+.mx-6 {
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
+}
+
+.mx-7 {
+  margin-left: 1.75rem;
+  margin-right: 1.75rem;
+}
+
+.mx-8 {
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+
+.mx-9 {
+  margin-left: 2.25rem;
+  margin-right: 2.25rem;
+}
+
+.mx-10 {
+  margin-left: 2.5rem;
+  margin-right: 2.5rem;
+}
+
+.mx-11 {
+  margin-left: 2.75rem;
+  margin-right: 2.75rem;
+}
+
+.mx-12 {
+  margin-left: 3rem;
+  margin-right: 3rem;
+}
+
+.mx-13 {
+  margin-left: 3.25rem;
+  margin-right: 3.25rem;
+}
+
+.mx-14 {
+  margin-left: 3.5rem;
+  margin-right: 3.5rem;
+}
+
+.mx-15 {
+  margin-left: 3.75rem;
+  margin-right: 3.75rem;
+}
+
+.mx-16 {
+  margin-left: 4rem;
+  margin-right: 4rem;
+}
+
+.mx-17 {
+  margin-left: 4.25rem;
+  margin-right: 4.25rem;
+}
+
+.mx-18 {
+  margin-left: 4.5rem;
+  margin-right: 4.5rem;
+}
+
+.mx-19 {
+  margin-left: 4.75rem;
+  margin-right: 4.75rem;
+}
+
+.mx-20 {
+  margin-left: 5rem;
+  margin-right: 5rem;
+}
+
+.mx-21 {
+  margin-left: 5.25rem;
+  margin-right: 5.25rem;
+}
+
+.mx-22 {
+  margin-left: 5.5rem;
+  margin-right: 5.5rem;
+}
+
+.mx-23 {
+  margin-left: 5.75rem;
+  margin-right: 5.75rem;
+}
+
+.mx-24 {
+  margin-left: 6rem;
+  margin-right: 6rem;
+}
+
+.mx-25 {
+  margin-left: 6.25rem;
+  margin-right: 6.25rem;
+}
+
+.mx-26 {
+  margin-left: 6.5rem;
+  margin-right: 6.5rem;
+}
+
+.mx-27 {
+  margin-left: 6.75rem;
+  margin-right: 6.75rem;
+}
+
+.mx-28 {
+  margin-left: 7rem;
+  margin-right: 7rem;
+}
+
+.mx-29 {
+  margin-left: 7.25rem;
+  margin-right: 7.25rem;
+}
+
+.mx-30 {
+  margin-left: 7.5rem;
+  margin-right: 7.5rem;
+}
+
+.mx-31 {
+  margin-left: 7.75rem;
+  margin-right: 7.75rem;
+}
+
+.mx-32 {
+  margin-left: 8rem;
+  margin-right: 8rem;
+}
+
+.mx-33 {
+  margin-left: 8.25rem;
+  margin-right: 8.25rem;
+}
+
+.mx-34 {
+  margin-left: 8.5rem;
+  margin-right: 8.5rem;
+}
+
+.mx-35 {
+  margin-left: 8.75rem;
+  margin-right: 8.75rem;
+}
+
+.mx-36 {
+  margin-left: 9rem;
+  margin-right: 9rem;
+}
+
+.mx-37 {
+  margin-left: 9.25rem;
+  margin-right: 9.25rem;
+}
+
+.mx-38 {
+  margin-left: 9.5rem;
+  margin-right: 9.5rem;
+}
+
+.mx-39 {
+  margin-left: 9.75rem;
+  margin-right: 9.75rem;
+}
+
+.mx-40 {
+  margin-left: 10rem;
+  margin-right: 10rem;
+}
+
+.mx-41 {
+  margin-left: 10.25rem;
+  margin-right: 10.25rem;
+}
+
+.mx-42 {
+  margin-left: 10.5rem;
+  margin-right: 10.5rem;
+}
+
+.mx-43 {
+  margin-left: 10.75rem;
+  margin-right: 10.75rem;
+}
+
+.mx-44 {
+  margin-left: 11rem;
+  margin-right: 11rem;
+}
+
+.mx-45 {
+  margin-left: 11.25rem;
+  margin-right: 11.25rem;
+}
+
+.mx-46 {
+  margin-left: 11.5rem;
+  margin-right: 11.5rem;
+}
+
+.mx-47 {
+  margin-left: 11.75rem;
+  margin-right: 11.75rem;
+}
+
+.mx-48 {
+  margin-left: 12rem;
+  margin-right: 12rem;
+}
+
+.mx-49 {
+  margin-left: 12.25rem;
+  margin-right: 12.25rem;
+}
+
+.mx-50 {
+  margin-left: 12.5rem;
+  margin-right: 12.5rem;
+}
+
+.mx-51 {
+  margin-left: 12.75rem;
+  margin-right: 12.75rem;
+}
+
+.mx-52 {
+  margin-left: 13rem;
+  margin-right: 13rem;
+}
+
+.mx-53 {
+  margin-left: 13.25rem;
+  margin-right: 13.25rem;
+}
+
+.mx-54 {
+  margin-left: 13.5rem;
+  margin-right: 13.5rem;
+}
+
+.mx-55 {
+  margin-left: 13.75rem;
+  margin-right: 13.75rem;
+}
+
+.mx-56 {
+  margin-left: 14rem;
+  margin-right: 14rem;
+}
+
+.mx-57 {
+  margin-left: 14.25rem;
+  margin-right: 14.25rem;
+}
+
+.mx-58 {
+  margin-left: 14.5rem;
+  margin-right: 14.5rem;
+}
+
+.mx-59 {
+  margin-left: 14.75rem;
+  margin-right: 14.75rem;
+}
+
+.mx-60 {
+  margin-left: 15rem;
+  margin-right: 15rem;
+}
+
+.mx-61 {
+  margin-left: 15.25rem;
+  margin-right: 15.25rem;
+}
+
+.mx-62 {
+  margin-left: 15.5rem;
+  margin-right: 15.5rem;
+}
+
+.mx-63 {
+  margin-left: 15.75rem;
+  margin-right: 15.75rem;
+}
+
+.mx-64 {
+  margin-left: 16rem;
+  margin-right: 16rem;
+}
+
+.mx-65 {
+  margin-left: 16.25rem;
+  margin-right: 16.25rem;
+}
+
+.mx-66 {
+  margin-left: 16.5rem;
+  margin-right: 16.5rem;
+}
+
+.mx-67 {
+  margin-left: 16.75rem;
+  margin-right: 16.75rem;
+}
+
+.mx-68 {
+  margin-left: 17rem;
+  margin-right: 17rem;
+}
+
+.mx-69 {
+  margin-left: 17.25rem;
+  margin-right: 17.25rem;
+}
+
+.mx-70 {
+  margin-left: 17.5rem;
+  margin-right: 17.5rem;
+}
+
+.mx-71 {
+  margin-left: 17.75rem;
+  margin-right: 17.75rem;
+}
+
+.mx-72 {
+  margin-left: 18rem;
+  margin-right: 18rem;
+}
+
+.mx-73 {
+  margin-left: 18.25rem;
+  margin-right: 18.25rem;
+}
+
+.mx-74 {
+  margin-left: 18.5rem;
+  margin-right: 18.5rem;
+}
+
+.mx-75 {
+  margin-left: 18.75rem;
+  margin-right: 18.75rem;
+}
+
+.mx-76 {
+  margin-left: 19rem;
+  margin-right: 19rem;
+}
+
+.mx-77 {
+  margin-left: 19.25rem;
+  margin-right: 19.25rem;
+}
+
+.mx-78 {
+  margin-left: 19.5rem;
+  margin-right: 19.5rem;
+}
+
+.mx-79 {
+  margin-left: 19.75rem;
+  margin-right: 19.75rem;
+}
+
+.mx-80 {
+  margin-left: 20rem;
+  margin-right: 20rem;
+}
+
+.mx-81 {
+  margin-left: 20.25rem;
+  margin-right: 20.25rem;
+}
+
+.mx-82 {
+  margin-left: 20.5rem;
+  margin-right: 20.5rem;
+}
+
+.mx-83 {
+  margin-left: 20.75rem;
+  margin-right: 20.75rem;
+}
+
+.mx-84 {
+  margin-left: 21rem;
+  margin-right: 21rem;
+}
+
+.mx-85 {
+  margin-left: 21.25rem;
+  margin-right: 21.25rem;
+}
+
+.mx-86 {
+  margin-left: 21.5rem;
+  margin-right: 21.5rem;
+}
+
+.mx-87 {
+  margin-left: 21.75rem;
+  margin-right: 21.75rem;
+}
+
+.mx-88 {
+  margin-left: 22rem;
+  margin-right: 22rem;
+}
+
+.mx-89 {
+  margin-left: 22.25rem;
+  margin-right: 22.25rem;
+}
+
+.mx-90 {
+  margin-left: 22.5rem;
+  margin-right: 22.5rem;
+}
+
+.mx-91 {
+  margin-left: 22.75rem;
+  margin-right: 22.75rem;
+}
+
+.mx-92 {
+  margin-left: 23rem;
+  margin-right: 23rem;
+}
+
+.mx-93 {
+  margin-left: 23.25rem;
+  margin-right: 23.25rem;
+}
+
+.mx-94 {
+  margin-left: 23.5rem;
+  margin-right: 23.5rem;
+}
+
+.mx-95 {
+  margin-left: 23.75rem;
+  margin-right: 23.75rem;
+}
+
+.mx-96 {
+  margin-left: 24rem;
+  margin-right: 24rem;
+}
+
+.mx-97 {
+  margin-left: 24.25rem;
+  margin-right: 24.25rem;
+}
+
+.mx-98 {
+  margin-left: 24.5rem;
+  margin-right: 24.5rem;
+}
+
+.mx-99 {
+  margin-left: 24.75rem;
+  margin-right: 24.75rem;
+}
+
+.mx-100 {
+  margin-left: 25rem;
+  margin-right: 25rem;
+}
