@@ -1,355 +1,132 @@
 // Define the color palette
-$color-deep-pink: #ff1493;
-$color-pink: #ffc0cb;
-$color-hot-pink: #ff69b4;
-$color-light-pink: #ffb6c1;
-$color-red: #630d07;
-$color-orange-red: #ff4500;
-$color-tomato: #ff6347;
-$color-coral: #ff7f50;
-$color-dark-orange: #ff8c00;
-$color-orange: #ffa500;
-$color-yellow-orange: #ffae42;
-$color-gold: #ffd700;
-$color-yellow: #ffff00;
-$color-light-yellow: #ffffe0;
-$color-lemon-chiffon: #fffacd;
-$color-light-goldenrod-yellow: #fafad2;
-$color-pale-goldenrod: #eee8aa;
-$color-khaki: #f0e68c;
-$color-dark-khaki: #bdb76b;
-$color-lime: #00ff00;
-$color-lime-green: #32cd32;
-$color-chartreuse: #7fff00;
-$color-green-yellow: #adff2f;
-$color-yellow-green: #9acd32;
-$color-olive-drab: #6b8e23;
-$color-dark-olive-green: #556b2f;
-$color-olive: #808000;
-$color-green: #0d400c;
-$color-forest-green: #228b22;
-$color-dark-green: #006400;
-$color-sea-green: #2e8b57;
-$color-medium-sea-green: #3cb371;
-$color-light-green: #90ee90;
-$color-pale-green: #98fb98;
-$color-dark-sea-green: #8fbc8f;
-$color-medium-aquamarine: #66c2a5;
-$color-aquamarine: #7fffd4;
-$color-powder-blue: #b0e0e6;
-$color-light-blue: #add8e6;
-$color-sky-blue: #87ceeb;
-$color-light-sky-blue: #87cefa;
-$color-deep-sky-blue: #00bfff;
-$color-dodger-blue: #1e90ff;
-$color-cornflower-blue: #6495ed;
-$color-steel-blue: #4682b4;
-$color-navy: #000080;
-$color-blue: #0a205e;
-$color-dark-blue: #00008b;
-// Define additional text color variations using lightness
-$text-color-levels: (
-  1:0%,
-  2: 5%, 
-  3: 10%, 
-  4: 15%,
-  5: 20%,
-  6:22%,
-  7: 25%,
-  8:28%,
-  9: 30%,
-  10: 33%,
-  11: 36%,
-  12: 39%,
-  13: 43%,
- 14 : 46%,
-  15: 49%,
-  16: 52%,
-  17: 55%,
-  18: 58%,
-  19 : 60%,
-  20:63%
+// $color-deep-pink: #ff1493;
+// $color-pink: #ffc0cb;
+// $color-hot-pink: #ff69b4;
+// $color-light-pink: #ffb6c1;
+// $color-red: #630d07;
+// $color-orange-red: #ff4500;
+// $color-tomato: #ff6347;
+// $color-coral: #ff7f50;
+// $color-dark-orange: #ff8c00;
+// $color-orange: #ffa500;
+// $color-yellow-orange: #ffae42;
+// $color-gold: #ffd700;
+// $color-yellow: #ffff00;
+// $color-light-yellow: #ffffe0;
+// $color-lemon-chiffon: #fffacd;
+// $color-light-goldenrod-yellow: #fafad2;
+// $color-pale-goldenrod: #eee8aa;
+// $color-khaki: #f0e68c;
+// $color-dark-khaki: #bdb76b;
+// $color-lime: #00ff00;
+// $color-lime-green: #32cd32;
+// $color-chartreuse: #7fff00;
+// $color-green-yellow: #adff2f;
+// $color-yellow-green: #9acd32;
+// $color-olive-drab: #6b8e23;
+// $color-dark-olive-green: #556b2f;
+// $color-olive: #808000;
+// $color-green: #0d400c;
+// $color-forest-green: #228b22;
+// $color-dark-green: #006400;
+// $color-sea-green: #2e8b57;
+// $color-medium-sea-green: #3cb371;
+// $color-light-green: #90ee90;
+// $color-pale-green: #98fb98;
+// $color-dark-sea-green: #8fbc8f;
+// $color-medium-aquamarine: #66c2a5;
+// $color-aquamarine: #7fffd4;
+// $color-powder-blue: #b0e0e6;
+// $color-light-blue: #add8e6;
+// $color-sky-blue: #87ceeb;
+// $color-light-sky-blue: #87cefa;
+// $color-deep-sky-blue: #00bfff;
+// $color-dodger-blue: #1e90ff;
+// $color-cornflower-blue: #6495ed;
+// $color-steel-blue: #4682b4;
+// $color-navy: #000080;
+// $color-blue: #0a205e;
+// $color-dark-blue: #00008b;
+
+$colors: (
+  green: #0d400c,
+  red: #770c00,
+  blue: #0a205e,
+  navy: #00203f,
+  yellow: #8e8e00,
+  orange: #895900,
+  teal: #026b64,
+  purple: #790079,
+  pink: #be0668,
+  gray: #474747,
+  indigo: #380060,
+  violet:#431883,
+  brown: #840000,
+  olive: #365314,
+  lime: #00dd00,
+  fuchsia: #701a75,
+  aqua: #007b7b,
+  dodgerblue:#136dc8,
+  silver: #575555,
+  gold: #6b5c07,
+ 
 );
 
-@each $level, $lightness in $text-color-levels {
-  .text-green-#{$level} {
-    color: lighten($color-green, $lightness);
+//another color
+$single-color:(
+  black: #000000,
+  white: #ffffff,
+
+);
+@each $color-name, $value in $single-color {
+  .text-#{$color-name}{
+    color: $value;
+  }
   }
 
-}
-@each $level, $lightness in $text-color-levels {
-   .text-red-#{$level} {
-    color: lighten($color-red, $lightness);
-  }
-  
-}
-@each $level, $lightness in $text-color-levels {
-   .text-blue-#{$level} {
-    color: lighten($color-blue, $lightness);
-  }
-  
-} 
-@each $level, $lightness in $text-color-levels {
-   .text-red-#{$level} {
-    color: lighten($color-red, $lightness);
-  }
-  
-}
-@each $level, $lightness in $text-color-levels {
-   .text-blue-#{$level} {
-    color: lighten($color-blue, $lightness);
-  }
-  
-} 
-@each $level, $lightness in $text-color-levels {
-  .text-green-#{$level} {
-    color: lighten($color-green, $lightness);
+
+// Define additional text color variations using lightness
+$text-color-levels: (
+  1:.0%,
+  2: 5%, 
+  3: 8%, 
+  4: 11%,
+  5: 14%,
+  6:17%,
+  7: 20%,
+  8:22%,
+  9: 24%,
+  10: 26%,
+  11: 28%,
+  12: 29%,
+  13: 30%,
+ 14 : 32%,
+  15: 34%,
+  16: 37%,
+  17: 40%,
+  18: 43%,
+  19 : 46%,
+  20:50%,
+  21:52%,
+  22:54%,
+  23:56%,
+  24:58%,
+  25:60%
+);
+
+@each $color, $value in $colors {
+  .text-#{$color} {
+    color: $color;}
+     @each $level, $percentage in $text-color-levels {
+      .text-#{$color}-#{$level}{
+        color: lighten($value, $percentage);
+      }
+    }
   }
 
-}
-@each $level, $lightness in $text-color-levels {
-   .text-red-#{$level} {
-    color: lighten($color-red, $lightness);
-  }
-  
-}
-@each $level, $lightness in $text-color-levels {
-   .text-blue-#{$level} {
-    color: lighten($color-blue, $lightness);
-  }
-  
-} 
-@each $level, $lightness in $text-color-levels {
-  .text-green-#{$level} {
-    color: lighten($color-green, $lightness);
-  }
 
-}
-@each $level, $lightness in $text-color-levels {
-   .text-red-#{$level} {
-    color: lighten($color-red, $lightness);
-  }
-  
-}
-@each $level, $lightness in $text-color-levels {
-   .text-blue-#{$level} {
-    color: lighten($color-blue, $lightness);
-  }
-  
-} 
-@each $level, $lightness in $text-color-levels {
-  .text-green-#{$level} {
-    color: lighten($color-green, $lightness);
-  }
 
-}
-@each $level, $lightness in $text-color-levels {
-   .text-red-#{$level} {
-    color: lighten($color-red, $lightness);
-  }
-  
-}
-@each $level, $lightness in $text-color-levels {
-   .text-blue-#{$level} {
-    color: lighten($color-blue, $lightness);
-  }
-  
-} 
-@each $level, $lightness in $text-color-levels {
-  .text-green-#{$level} {
-    color: lighten($color-green, $lightness);
-  }
-
-}
-@each $level, $lightness in $text-color-levels {
-   .text-red-#{$level} {
-    color: lighten($color-red, $lightness);
-  }
-  
-}
-@each $level, $lightness in $text-color-levels {
-   .text-blue-#{$level} {
-    color: lighten($color-blue, $lightness);
-  }
-  
-} 
-@each $level, $lightness in $text-color-levels {
-  .text-green-#{$level} {
-    color: lighten($color-green, $lightness);
-  }
-
-}
-@each $level, $lightness in $text-color-levels {
-   .text-red-#{$level} {
-    color: lighten($color-red, $lightness);
-  }
-  
-}
-@each $level, $lightness in $text-color-levels {
-   .text-blue-#{$level} {
-    color: lighten($color-blue, $lightness);
-  }
-  
-} 
-@each $level, $lightness in $text-color-levels {
-  .text-green-#{$level} {
-    color: lighten($color-green, $lightness);
-  }
-
-}
-@each $level, $lightness in $text-color-levels {
-   .text-red-#{$level} {
-    color: lighten($color-red, $lightness);
-  }
-  
-}
-@each $level, $lightness in $text-color-levels {
-   .text-blue-#{$level} {
-    color: lighten($color-blue, $lightness);
-  }
-  
-} 
-@each $level, $lightness in $text-color-levels {
-  .text-green-#{$level} {
-    color: lighten($color-green, $lightness);
-  }
-
-}
-@each $level, $lightness in $text-color-levels {
-   .text-red-#{$level} {
-    color: lighten($color-red, $lightness);
-  }
-  
-}
-@each $level, $lightness in $text-color-levels {
-   .text-blue-#{$level} {
-    color: lighten($color-blue, $lightness);
-  }
-  
-} 
-@each $level, $lightness in $text-color-levels {
-  .text-green-#{$level} {
-    color: lighten($color-green, $lightness);
-  }
-
-}
-@each $level, $lightness in $text-color-levels {
-   .text-red-#{$level} {
-    color: lighten($color-red, $lightness);
-  }
-  
-}
-@each $level, $lightness in $text-color-levels {
-   .text-blue-#{$level} {
-    color: lighten($color-blue, $lightness);
-  }
-  
-} 
-@each $level, $lightness in $text-color-levels {
-  .text-green-#{$level} {
-    color: lighten($color-green, $lightness);
-  }
-
-}
-@each $level, $lightness in $text-color-levels {
-   .text-red-#{$level} {
-    color: lighten($color-red, $lightness);
-  }
-  
-}
-@each $level, $lightness in $text-color-levels {
-   .text-blue-#{$level} {
-    color: lighten($color-blue, $lightness);
-  }
-  
-} 
-@each $level, $lightness in $text-color-levels {
-  .text-green-#{$level} {
-    color: lighten($color-green, $lightness);
-  }
-
-}
-@each $level, $lightness in $text-color-levels {
-   .text-red-#{$level} {
-    color: lighten($color-red, $lightness);
-  }
-  
-}
-@each $level, $lightness in $text-color-levels {
-   .text-blue-#{$level} {
-    color: lighten($color-blue, $lightness);
-  }
-  
-} 
-@each $level, $lightness in $text-color-levels {
-  .text-green-#{$level} {
-    color: lighten($color-green, $lightness);
-  }
-
-}
-@each $level, $lightness in $text-color-levels {
-   .text-red-#{$level} {
-    color: lighten($color-red, $lightness);
-  }
-  
-}
-@each $level, $lightness in $text-color-levels {
-   .text-blue-#{$level} {
-    color: lighten($color-blue, $lightness);
-  }
-  
-} 
-@each $level, $lightness in $text-color-levels {
-  .text-green-#{$level} {
-    color: lighten($color-green, $lightness);
-  }
-
-}
-@each $level, $lightness in $text-color-levels {
-   .text-red-#{$level} {
-    color: lighten($color-red, $lightness);
-  }
-  
-}
-@each $level, $lightness in $text-color-levels {
-   .text-blue-#{$level} {
-    color: lighten($color-blue, $lightness);
-  }
-  
-} 
-@each $level, $lightness in $text-color-levels {
-  .text-green-#{$level} {
-    color: lighten($color-green, $lightness);
-  }
-
-}
-@each $level, $lightness in $text-color-levels {
-   .text-red-#{$level} {
-    color: lighten($color-red, $lightness);
-  }
-  
-}
-@each $level, $lightness in $text-color-levels {
-   .text-blue-#{$level} {
-    color: lighten($color-blue, $lightness);
-  }
-  
-} 
-@each $level, $lightness in $text-color-levels {
-  .text-green-#{$level} {
-    color: lighten($color-green, $lightness);
-  }
-
-}
-@each $level, $lightness in $text-color-levels {
-   .text-red-#{$level} {
-    color: lighten($color-red, $lightness);
-  }
-  
-}
-@each $level, $lightness in $text-color-levels {
-   .text-blue-#{$level} {
-    color: lighten($color-blue, $lightness);
-  }
-  
-} 
+// @each $level, $lightness in $text-color-levels {
+//    .text-red-#{$level} {
+//     color: lighten($color-red, $lightness);
+//   }
