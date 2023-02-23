@@ -1,0 +1,12 @@
+// padding left right classes
+$padding-size: 0.25rem;
+$padding-start: 1;
+$padding-end: 100;
+@for $value from $padding-start through $padding-end {
+  .px-#{$value} {
+    padding-left: $value * $padding-size;
+    padding-right: $value * $padding-size;
+
+  }
+   
+}

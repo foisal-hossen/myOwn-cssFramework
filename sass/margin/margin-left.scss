@@ -1,0 +1,12 @@
+// margin left  classes
+$margin-size: 0.25rem;
+$margin-start: 1;
+$margin-end: 100;
+@for $value from $margin-start through $margin-end {
+  .ml-#{$value} {
+    margin-left: $value * $margin-size;
+   
+
+  }
+   
+}

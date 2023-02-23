@@ -1,0 +1,75 @@
+$colors: (
+  green: #0d400c,
+  red: #770c00,
+  blue: #0a205e,
+  navy: #00203f,
+  yellow: #8e8e00,
+  orange: #895900,
+  teal: #026b64,
+  purple: #790079,
+  pink: #be0668,
+  gray: #474747,
+  indigo: #380060,
+  violet:#431883,
+  brown: #840000,
+  olive: #365314,
+  lime: #00dd00,
+  fuchsia: #701a75,
+  aqua: #007b7b,
+  dodgerblue:#136dc8,
+  silver: #575555,
+  gold: #6b5c07,
+ 
+);
+
+//another color
+$single-color:(
+  black: #000000,
+  white: #ffffff,
+
+);
+@each $color-name, $value in $single-color {
+  .bg-#{$color-name}{
+    background-color: $value;
+  }
+  }
+
+
+// Define additional bg-color color variations using lightness
+$bg-color-levels: (
+  1:.0%,
+  2: 5%, 
+  3: 8%, 
+  4: 11%,
+  5: 14%,
+  6:17%,
+  7: 20%,
+  8:22%,
+  9: 24%,
+  10: 26%,
+  11: 28%,
+  12: 29%,
+  13: 30%,
+ 14 : 32%,
+  15: 34%,
+  16: 37%,
+  17: 40%,
+  18: 43%,
+  19 : 46%,
+  20:50%,
+  21:52%,
+  22:54%,
+  23:56%,
+  24:58%,
+  25:60%
+);
+
+@each $color, $value in $colors {
+  .bg-#{$color} {
+    background-color: $color;}
+     @each $level, $percentage in $bg-color-levels {
+      .bg-#{$color}-#{$level}{
+        background-color: lighten($value, $percentage);
+      }
+    }
+  }
