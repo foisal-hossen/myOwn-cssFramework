@@ -116,7 +116,8 @@ $text-color-levels: (
 
 @each $color, $value in $colors {
   .text-#{$color} {
-    color: $color;}
+    color: $color;
+  };
      @each $level, $percentage in $text-color-levels {
       .text-#{$color}-#{$level}{
         color: lighten($value, $percentage);
